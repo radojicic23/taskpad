@@ -1,11 +1,22 @@
 # Description
--  Web Application made with Python, Django, CSS and HTML. 📝
+
+- Web Application made with Python, Django, CSS and HTML. 📝
 
 # Requirements
+
 - Python 3.x
-- Django 
+- Django
+
+# Stack
+
+- Python
+- Django
+- HTML
+- CSS
+- SQLite3
 
 # Setup and Installation
+
 ```bash
 git clone <repo-url>
 ```
@@ -22,4 +33,6 @@ cd notes-app-v2/mysite
 python manage.py runserver
 ```
 
-- Link: Go to --> `http://127.0.0.1:8000/`
+# Link
+
+- http://127.0.0.1:8000/
