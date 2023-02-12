@@ -1,5 +1,7 @@
 # Description
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 - Web Application made with Python, Django, CSS and HTML. 📝
 
 # Requirements
@@ -9,11 +11,11 @@
 
 # Stack
 
-- Python
-- Django
-- HTML
-- CSS
-- SQLite3
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 # Setup and Installation
 
@@ -36,5 +38,5 @@ python manage.py runserver
 # Link
 
 ```bash
-- http://127.0.0.1:8000/
+http://127.0.0.1:8000/
 ```
