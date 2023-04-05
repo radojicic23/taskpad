@@ -1,6 +1,7 @@
 # Description
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![made-with-django](https://img.shields.io/badge/Made%20with-Django-1f425f.svg)](https://www.python.org/)
 
 - Web Application made with Python, Django, CSS and HTML. 📝
 
@@ -28,7 +29,7 @@ pip install -r requirements.txt
 ```
 
 ```bash
-cd notes-app-v2/mysite
+cd taskpad/mysite
 ```
 
 ```bash
